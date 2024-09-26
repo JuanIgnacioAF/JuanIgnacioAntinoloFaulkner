@@ -7,6 +7,7 @@ Recientemente acabo de terminar una Beca Formativa FUNDAE de Microsoft Power BI 
 Mi objetivo es aprender y poder crecer profesionalmemte cada día, y llegar a poner en práctica mis conocimientos para aportar valor a las empresas.
 
 En este espacio GIT he querido plasmar algunos de mis conocimientos y trabajos realizados referentes al Análisis de los Datos con Power BI.
+También están subidos los archivos .pbix
 
 No obstante, indico mi linkedin:
 https://www.linkedin.com/in/juan-ignacio-antinolo-faulkner
